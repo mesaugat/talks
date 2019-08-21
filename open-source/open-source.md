@@ -21,7 +21,7 @@
 
 ## And Most Importantly
 
-### It's About Solving Problems
+### It's About [Solving Problems](https://media.giphy.com/media/5z0cCCGooBQUtejM4v/giphy.gif)
 
 ---
 
@@ -160,6 +160,12 @@
 * [A Bitter Guide to Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4)
 * [GitHub Stars Won't Pay Your Rent](https://medium.com/@kitze/github-stars-wont-pay-your-rent-8b348e12baed)
 * [Learning From Code Reviews](https://soundcloud.com/do-not-merge/learning-from-code-reviews)
+
+---
+
+## Thank You
+
+![inline fit 20%](images/leapfrog-open-source.png)
 
 <!--
 
