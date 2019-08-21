@@ -71,7 +71,11 @@
 
 ---
 
-## 3. Contributions Other Than Code
+![inline fit](images/contribution-idea.png)
+
+---
+
+## 3. Contribution Doesn't Have To Be Code
 
 ---
 
@@ -163,15 +167,17 @@
 
 1. https://github.com/mesaugat/geoJSON-Nepal
 2. https://github.com/bhu1st/nepal_in_php_arrays/pull/1/files
-3. https://github.com/mesaugat/tech-companies-in-nepal/pull/14
-4. https://github.com/kubernetes/kubernetes/pull/72636
-5. https://github.com/srishanbhattarai/nepcal/issues/23
-6. https://github.com/mesaugat/express-api-es6-starter/issues?q=is%3Aissue+is%3Aclosed+label%3Aquestion
-7. https://github.com/jwilm/alacritty/pull/1117/files
-8. https://gist.github.com/mesaugat/6c044f665a77e5756f9b9c6d1fb90889
-9. https://github.com/prettymuchbryce/http-status-codes/pull/14/files
-10. https://github.com/hashicorp/docker-vault/pull/123/files
-11. https://github.com/mesaugat/chai-exclude/issues/9
-12. https://github.com/microsoft/tslint-microsoft-contrib/pull/623
+3. https://github.com/chaijs/chai/issues/885#issuecomment-313163538
+4. https://github.com/mesaugat/chai-exclude
+5. https://github.com/mesaugat/tech-companies-in-nepal/pull/14
+6. https://github.com/kubernetes/kubernetes/pull/72636
+7. https://github.com/srishanbhattarai/nepcal/issues/23
+8. https://github.com/mesaugat/express-api-es6-starter/issues?q=is%3Aissue+is%3Aclosed+label%3Aquestion
+9. https://github.com/jwilm/alacritty/pull/1117/files
+10. https://gist.github.com/mesaugat/6c044f665a77e5756f9b9c6d1fb90889
+11. https://github.com/prettymuchbryce/http-status-codes/pull/14/files
+12. https://github.com/hashicorp/docker-vault/pull/123/files
+13. https://github.com/mesaugat/chai-exclude/issues/9
+14. https://github.com/microsoft/tslint-microsoft-contrib/pull/623
 
 -->
