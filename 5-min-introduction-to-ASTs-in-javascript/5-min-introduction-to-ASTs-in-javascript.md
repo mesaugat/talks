@@ -74,20 +74,6 @@ sum(5, 10)
 
 ---
 
-[.header: alignment(center), text-scale(1.5)]
-[.header-strong: #1A99FC]
-
-# AST **Node** Types
-
-- Identifier
-- Literal
-- Program
-- Function
-- ExpressionStatement
-- ...
-
----
-
 # AST **Parsers**
 
 [.header: alignment(center), text-scale(1.5)]
@@ -202,9 +188,8 @@ sum(5, 10)
 | 1. Create your own Babel plugin                      |
 | 2. Write custom ESLint rules                         |
 | 3. Generate codemods to refactor code quickly        |
-| 4. Compile one AST to another AST                    |
-| 5. Analyze your code by looking into AST parse times |
-| 6. Build your own AST parser                         |
+| 4. Analyze your code by looking into AST parse times |
+| 5. Build your own AST parser                         |
 
 ---
 
