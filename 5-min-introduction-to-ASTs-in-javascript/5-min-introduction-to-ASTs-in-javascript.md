@@ -18,7 +18,7 @@
 
 <br>
 
-#### Open Source Enthusiast
+#### Open Source Enthusiast **(@mesaugat)**
 #### Lead Engineer, Leapfrog Technology
 
 ---
@@ -85,58 +85,28 @@ sum(5, 10)
 
 ---
 
-# AST **JSON Representation**
+<br>
+<br>
+<br>
 
-[.header: alignment(center), text-scale(1.5)]
+# AST **Object Representation**
 
-![inline](images/ast-preview.png)
+[.header: alignment(center), text-scale(1.8)]
+
+![right 100%](images/ast-preview.png)
 
 ---
 
-# True **JSON Representation**
+<br>
+<br>
+<br>
 
-[.header: alignment(center), text-scale(1.5)]
+# AST **JSON Representation**
+
+[.header: alignment(center), text-scale(1.8)]
 [.code: Dank Mono]
 
-```json
-                                                                          {
-                                                                            "type": "Program",
-                                                                            "start": 0,
-                                                                            "end": 46,
-                                                                            "range": [
-                                                                              0,
-                                                                              46
-                                                                            ],
-                                                                            "body": [
-                                                                              {
-                                                                                "type": "ImportDeclaration",
-                                                                                "start": 0,
-                                                                                "end": 28,
-                                                                                "range": [
-                                                                                  0,
-                                                                                  28
-                                                                                ],
-                                                                                "specifiers": [
-                                                                                  {
-                                                                                    "type": "ImportDefaultSpecifier",
-                                                                                    "start": 7,
-                                                                                    "end": 13,
-                                                                                    "range": [
-                                                                                      7,
-                                                                                      13
-                                                                                    ],
-                                                                                    "local": {
-                                                                                      "type": "Identifier",
-                                                                                      "start": 7,
-                                                                                      "end": 13,
-                                                                                      "range": [
-                                                                                        7,
-                                                                                        13
-                                                                                      ],
-                                                                                      "name": "lodash"
-                                                                                      ...
-                                                                          }
-```
+![right 110%](images/ast-json-preview.png)
 
 ---
 
@@ -145,7 +115,7 @@ sum(5, 10)
 # Who uses ASTs?
 
 ![inline 80%](images/babel.png) ![inline 80%](images/eslint.png)
-![inline 80%](images/prettier.png) ![inline fit](images/webpack.png)
+![inline 80%](images/prettier.png) ![inline 95%](images/webpack.png)
 
 ---
 
@@ -155,7 +125,17 @@ sum(5, 10)
 
 ![inline](images/babel-transformation.png)
 
-## Transforming **JSX and React** to **ES5** using Babel
+#### Transforming **JSX and React** to **ES5** using Babel
+
+---
+
+# ES6 to ES5
+
+[.header: alignment(center), text-scale(1.5)]
+
+![inline 111%](images/react-es6.png)![inline 120%](images/react-es5.png)
+
+#### Converting **one AST** to **another AST**
 
 ---
 
@@ -163,9 +143,9 @@ sum(5, 10)
 
 # Linting / Static Code Analysis
 
-![inline](images/eslint-analysis.png)
+![inline fit](images/eslint-analysis.png)
 
-## Applying **Linter rules** using ESLint
+#### Applying **lint rules** using **ESLint**
 
 ---
 
@@ -175,7 +155,8 @@ sum(5, 10)
 
 ![inline](images/prettier-format.png)
 
-## **Format code** using Prettier
+#### **Format code** using Prettier
+#### Works by compiling code to an AST, and then pretty-printing the AST
 
 ---
 
@@ -200,18 +181,18 @@ sum(5, 10)
 
 ![inline](images/ast-explorer.png)
 
-### **https://astexplorer.net**
+#### **https://astexplorer.net**
 
 ---
 
 [.header: alignment(center), text-scale(1.5)]
 [.header-strong: #1A99FC]
 
-# Explore ASTs for Other Languages
+# Explore AST Parsers
 
-![inline](images/ast-explorer-other.png)
+![inline fit](images/ast-explorer-other.png)
 
-### **https://astexplorer.net**
+#### **https://astexplorer.net**
 
 ---
 
