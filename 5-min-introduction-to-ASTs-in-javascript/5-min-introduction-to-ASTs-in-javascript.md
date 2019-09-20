@@ -112,7 +112,7 @@ sum(5, 10)
 
 [.header: alignment(center), text-scale(1.5)]
 
-# Who uses ASTs?
+# **Who** uses ASTs?
 
 ![inline 80%](images/babel.png) ![inline 80%](images/eslint.png)
 ![inline 80%](images/prettier.png) ![inline 95%](images/webpack.png)
@@ -197,3 +197,14 @@ sum(5, 10)
 ---
 
 > Thank You 🙏
+
+<!--
+
+## Further Readings and References
+
+1. https://www.youtube.com/watch?v=CFQBHy8RCpg
+2. https://medium.com/basecs/leveling-up-ones-parsing-game-with-asts-d7a6fc2400ff
+3. https://blog.sessionstack.com/how-javascript-works-parsing-abstract-syntax-trees-asts-5-tips-on-how-to-minimize-parse-time-abfcf7e8a0c8
+4. https://alligator.io/js/traversing-ast
+
+-->
